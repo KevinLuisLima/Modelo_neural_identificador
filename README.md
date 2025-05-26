@@ -2,7 +2,7 @@
 
 ## O que é
   Este é um repositório feito para comportar um modelo neural simples que recebe imagens e as categoriza baseado em padrões que ele identifica das imagens de seu dataset. O modelo vem pré-pronto com comentários e exemplificado com um código para identificar se uma imagem de sala de aula contém pessoas nela ou não.
-  [Modelo_Identifica_Salas_Vazias.ipynb](/linkDoModelo.ipynb)
+  [Modelo_Identifica_Salas_Vazias.ipynb](/Modelo_Identifica_Salas_Vazias.ipynb)
   
 ## Como fazer funcionar
 - Basta adicionar a sua pasta com imagens para a variável "data_dir" que você queira treinar (de preferência imagens PNG e não corrompidas, o código não tem tratamento de imagens corrompidas no momento);
